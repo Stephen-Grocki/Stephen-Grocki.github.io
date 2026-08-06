@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eeeeee;
+    color: #222222;
+    margin: 0;
+}
+
+#header {
+    background-color: darkgreen;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+.section {
+    background-color: white;
+
+    margin: 25px auto;
+    padding: 25px;
+    border: 2px solid darkgreen;
+
+    max-width: 700px;
+}
+
+.golf-image {
+    display: block;
+    width: 400px;
+    max-width: 100%;
+    margin: 20px auto;
+}
+
+h2 {
+    color: darkgreen;
+}
+
+a {
+    color: darkgreen;
+    font-weight: bold;
+}
+
+a:hover {
+    color: red;
+}
+
+footer {
+    background-color: darkgreen;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+}
